@@ -1,0 +1,9 @@
+# Logs and exports directories
+logs/
+exports/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
